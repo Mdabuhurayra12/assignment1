@@ -22,3 +22,13 @@ body{
 #margin{
     margin-top: 18%;
 }
+#location{
+    text-align: center;
+    padding: 8px 400px;
+}
+.gm{
+    background-image: url("7.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 0%;
+}
